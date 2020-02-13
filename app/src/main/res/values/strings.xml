@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">teste-pratico</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="abrir_barra_menu">Abrir barra de menus</string>>
+    <string name="fechar_barra_menu">Fechar barra de menus</string>
+    <string name="title_activity_detalhe">DetalheActivity</string>>
+
+</resources>

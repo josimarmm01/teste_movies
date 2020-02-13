@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="wrap_content">
+
+    <group>
+        <item android:id="@+id/nav_item_principal"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="Principal" />
+
+        <item android:id="@+id/nav_item_favorito"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="Favoritos" />
+
+    </group>
+
+    <group android:id="@+id/nav_item_sobre">
+        <item android:id="@+id/nav_item_four"
+            android:title="Verao 1.0" />
+    </group>
+
+</menu>
