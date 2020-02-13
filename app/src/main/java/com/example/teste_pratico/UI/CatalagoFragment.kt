@@ -106,7 +106,7 @@ class CatalagoFragment : Fragment() {
 
                 var filmes: Movie? = response?.body()
                 filmes?.results?.let {
-
+//
                     for (filme:Filme in it) {
                         lista_filmes.add(converteFilme(filme))
                     }
